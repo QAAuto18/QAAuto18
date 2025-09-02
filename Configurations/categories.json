@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ignored tests",
+    "matchedStatuses": ["skipped"]
+  },
+  {
+    "name": "Product Bug",
+    "matchedStatuses": ["broken", "failed"],
+    "messageRegex": ".*Exception.*"
+  },
+  {
+    "name": "Element Not Found",
+    "matchedStatuses": ["failed"],
+    "traceRegex": ".*timed out.*"
+  }
+]

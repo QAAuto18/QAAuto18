@@ -1,0 +1,29 @@
+{
+  "dev1": {
+    "StaffConsoleURL": "https://autotest--dev1.my.salesforce.com/",
+    "AutotestWebsiteURL": "https://web.dev.sitecore.dev.aws.autotest.com.au",
+    "AutotestWebsiteExperienceApiUrl": "https://dev-develop.web-x-dev.api.autotest.com.au/v1/",
+    "AutotestDigitalExperienceApiUrl": "https://dev-develop.digi-x-dev.api.autotest.com.au/v1/",
+    "TestDataBaseUri": "https://api.testdata-p.dev-develop.testdata-p-dev.aws.autotest.com.au/v1/"
+  },
+  "dev": {
+    "AutotestWebsiteURL": "https://web.dev.sitecore.dev.aws.autotest.com.au",
+    "AutotestWebsiteExperienceApiUrl": "https://dev-develop.web-x-dev.api.autotest.com.au/v1/",
+    "AutotestDigitalExperienceApiUrl": "https://dev-develop.digi-x-dev.api.autotest.com.au/v1/",
+    "TestDataBaseUri": "https://api.testdata-p.dev-develop.testdata-p-dev.aws.autotest.com.au/v1/"
+  },
+  "sit1": {
+    "StaffConsoleURL": "https://autotest--sit.my.salesforce.com/",
+    "AutotestWebsiteURL": "https://web.sit1.sitecore.nonprod.aws.autotest.com.au",
+    "AutotestWebsiteExperienceApiUrl": "https://sit-develop.web-x-nonprod.api.autotest.com.au/v1/",
+    "AutotestDigitalExperienceApiUrl": "https://sit-develop.digi-x-nonprod.api.autotest.com.au/v1/",
+    "TestDataBaseUri": "https://api.testdata-p.sit-develop.testdata-p-nonprod.aws.autotest.com.au/v1/"
+  },
+  "sit": {
+    "StaffConsoleURL": "https://autotest--sit.my.salesforce.com/",
+    "AutotestWebsiteURL": "https://web.sit1.sitecore.nonprod.aws.autotest.com.au",
+    "AutotestWebsiteExperienceApiUrl": "https://sit-develop.web-x-nonprod.api.autotest.com.au/v1/",
+    "AutotestDigitalExperienceApiUrl": "https://sit-develop.digi-x-nonprod.api.autotest.com.au/v1/",
+    "TestDataBaseUri": "https://api.testdata-p.sit-develop.testdata-p-nonprod.aws.autotest.com.au/v1/"
+  }
+}

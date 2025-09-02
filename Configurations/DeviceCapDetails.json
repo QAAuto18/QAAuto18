@@ -1,0 +1,24 @@
+{
+  "devices": [
+    {
+      "deviceName": "Chrome",
+      "capabilities": {
+        "os": "Windows",
+        "os_version": "10",
+        "platform": "Desktop",
+        "browserName": "chrome",
+        "browserVersion": "latest"
+      }
+    },
+    {
+      "deviceName": "Desktop",
+      "capabilities": {
+        "os": "Windows",
+        "os_version": "10",
+        "platform": "Desktop",
+        "browserName": "chrome",
+        "browserVersion": "latest"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+  <environments>
+    <DEVICE>
+      <NAME>Widows_10_Chrome_79_0</NAME>
+      <add key="os" value="Windows" />
+      <add key="os_version" value="10" />
+      <add key="browser" value="Chrome" />
+      <add key="browser_version" value="79.0" />
+      <add key="resolution" value="1024x768" />
+      <add key="platform" value="Desktop" />
+    </DEVICE>
+    <DEVICE>
+      <NAME>Mac_Mojave_Chrome_79_0</NAME>
+      <add key="os" value="OS X" />
+      <add key="os_version" value="Mojave" />
+      <add key="browser" value="Chrome" />
+      <add key="browser_version" value="79.0" />
+      <add key="resolution" value="1024x768" />
+      <add key="platform" value="Desktop" />
+    </DEVICE>
+  </environments>
